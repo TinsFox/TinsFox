@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey, I'm TinsFox 👋.
 
+A Full Stack <Developer />
+
+Code for fun, code with ❤️
 <!--
 **TinsFox/TinsFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
