@@ -1,6 +1,6 @@
 ### Hey, I'm TinsFox 👋.
 
-A Full Stack <Developer />
+A Full Stack Developer
 
 Code for fun, code with ❤️
 <!--
